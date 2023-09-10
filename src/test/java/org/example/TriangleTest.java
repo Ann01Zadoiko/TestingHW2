@@ -1,3 +1,5 @@
+package org.example;
+
 import org.example.Triangle;
 import org.junit.After;
 import org.junit.Before;
